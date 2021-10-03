@@ -29,11 +29,11 @@ These exercises should be done when instructed during the course of the curricul
   - 03-grouping-selectors [✅]
   - 04-chaining-selectors [✅]
   - 05-descendant-combinator [✅]
-  - 06-cascade-fix [ ]
+  - 06-cascade-fix [✅]
 
 2. Margin and Padding:
-  - margin-and-padding-1 [ ]
-  - margin-and-padding-2 [ ]
+  - margin-and-padding-1 [✅]
+  - margin-and-padding-2 [✅]
  
 3. Flex:
   - 01-flex-center [ ]
